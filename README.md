@@ -22,4 +22,4 @@ ui.R, server.R, .html, .css, /images
 
 **Links**
  * Shiny app for next word perdiction is running at https://skhanvilkar.shinyapps.io/Coursera-Data-Science-Capstone-master/
- * Presentation explaining approach and alogorithm is available at http://rpubs.com/skhanvilkar/455443
+ * Presentation explaining approach and alogorithm is available at http://rpubs.com/skhanvilkar/Capstone
